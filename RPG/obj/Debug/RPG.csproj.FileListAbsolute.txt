@@ -1,0 +1,22 @@
+C:\Users\elian\source\repos\RPG\RPG\bin\Debug\RPG.exe.config
+C:\Users\elian\source\repos\RPG\RPG\bin\Debug\RPG.exe
+C:\Users\elian\source\repos\RPG\RPG\bin\Debug\RPG.pdb
+C:\Users\elian\source\repos\RPG\RPG\obj\Debug\RPG.csprojAssemblyReference.cache
+C:\Users\elian\source\repos\RPG\RPG\obj\Debug\RPG.FrmCrearPersonaje.resources
+C:\Users\elian\source\repos\RPG\RPG\obj\Debug\RPG.FrmMenuPrin.resources
+C:\Users\elian\source\repos\RPG\RPG\obj\Debug\RPG.Properties.Resources.resources
+C:\Users\elian\source\repos\RPG\RPG\obj\Debug\RPG.csproj.GenerateResource.cache
+C:\Users\elian\source\repos\RPG\RPG\obj\Debug\RPG.exe
+C:\Users\elian\source\repos\RPG\RPG\obj\Debug\RPG.pdb
+C:\Users\Lenovo\Desktop\proyecto final\RPG\RPG\bin\Debug\RPG.exe.config
+C:\Users\Lenovo\Desktop\proyecto final\RPG\RPG\bin\Debug\RPG.exe
+C:\Users\Lenovo\Desktop\proyecto final\RPG\RPG\bin\Debug\RPG.pdb
+C:\Users\Lenovo\Desktop\proyecto final\RPG\RPG\obj\Debug\RPG.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\proyecto final\RPG\RPG\obj\Debug\RPG.FrmCrearPersonaje.resources
+C:\Users\Lenovo\Desktop\proyecto final\RPG\RPG\obj\Debug\RPG.FrmMenuPrin.resources
+C:\Users\Lenovo\Desktop\proyecto final\RPG\RPG\obj\Debug\RPG.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\proyecto final\RPG\RPG\obj\Debug\RPG.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\proyecto final\RPG\RPG\obj\Debug\RPG.exe
+C:\Users\Lenovo\Desktop\proyecto final\RPG\RPG\obj\Debug\RPG.pdb
+C:\Users\Lenovo\Desktop\proyecto final\RPG\RPG\obj\Debug\RPG.Estadisticas.resources
+C:\Users\Lenovo\Desktop\proyecto final\RPG\RPG\obj\Debug\RPG.Equipo.resources
